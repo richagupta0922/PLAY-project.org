@@ -1,5 +1,5 @@
 ---
-title: "PLAY & Learning Across a Year"
+title: "DUST project"
 ---
 This site is hosted in [GitHub](http://github.com/PLAY-behaviorome/) and is generated in [R Markdown](http://rmarkdown.rstudio.com/) using [RStudio](http://rstudio.com), version `r rstudioapi::versionInfo()$version`.
 
