@@ -31,6 +31,24 @@ PLAY aims to set new standards for conducting open, transparent, and reproducibl
 
 Materials (videos, questionnaires, links to Databrary volumes) for the PLAY project are included in this site, where we document data collection protocols, workflows, coding strategies, and operational definitions. Please ensure that you are  [**currently logged in at Databrary**](https://nyu.databrary.org/user/login) to view embedded video examples in this webpage and gain access to phone and home questionnaires.  
 
+## Overview of Dust Project <RG 10/31/2023>
+
+Participant sampling
+To be included in the DUST sample of 248 sessions, participants must:
+
+Inclusion/exclusion criteria:
+ Be 6, 9, 12,15, 18, 24-month-olds_+ 2 weeks
+ Be born full-term (at least 36 weeks), of normal birth weight (>= 5lbs 0 ounces),without known disabilities(cognitive, auditory,visual,motor)
+ Be born to parents at least 18 years of age (at the time of target child’s birth)
+ The mother or father must act as the caregiver during the 1-hour natural interaction, which will be scheduled at a time when only one parent and target child are present (i.e., no siblings or other caregivers are around).
+ Infants can come from families speaking any languages so long as parent in the home during the 1-hour natural play recording can speak English and answer the questionnaires in English.
+ Parent is comfortable not wearing a mask during 1-hour natural play recording.
+
+Collection sites:
+Data will come from the NYC and West Lafayette areas, two geographically- diverse sites representing urban,suburban,and rural communities.
+
+## End of Dust Project <RG 10/31/2023>
+
 ## PLAY Project workflow
 
 Below is the project-wide workflow. The PLAY team will provide training, quality assurance, transcription, reliability coding, and collating data for the final PLAY database. The collaborating sites will perform data collection and various levels of data coding.
