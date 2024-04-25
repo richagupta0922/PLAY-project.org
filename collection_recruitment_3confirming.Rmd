@@ -3,27 +3,17 @@
 ### 3.1 Confirmation phone call {.tabset}
 
 #### English instructions
-<say>Hi, may I speak with [MOM]? My name is [NAME] and I’m calling from [LAB] to confirm our visit with you and [CHILD] on [DATE].
+<say>Hi, may I speak with [MOM]? My name is [NAME] and I’m calling from [LAB] to confirm our visit with you and [CHILD] on [DATE].Does this time and date still work for you?</say>
 
-<say>Have you or anyone in your household had COVID or had physical interaction with someone who has tested positive for COVID in the last two weeks?</say> 
 
-- → *If yes: **end call** * <say>Currently, we are only enrolling families who are symptom-free and had no interaction with anyone COVID positive. But is it okay, if we call you for this study again in a few months?</say>
-- → *If no: continue* 
+→If phone questionnaire was not completed during initial phone call:
 
-<say>Does this time and date still work for you?</say>
+“Before the visit, I’d like to ask you a few questions. It will only take 5 minutes of your time. Can we speak now?"
 
-- → *If yes:* 
-    - → *If demographic questionnaire was not completed during initial phone call:* <say>That's great! Before the visit, I’d like to ask you a few questions. It will only take 10-15 minutes of your time.</say> 
-        - On your tablet, open Kobo toolbox and start a new questionnaire set
-        - Fill out participant information at top of new session
-        - “Save as Draft” after demographic questionnaire and home visit questionnaires
-        - Only hit “Submit” after filling out clean-up notes back in lab
-        - Here are links to view the demographic questionnaire &emsp; <a href="https://ee.kobotoolbox.org/x/#ko4f0b5J"><img src="img/icon-link.jpg" width="20"></a> 
-<a href="https://nyu.databrary.org/volume/876/slot/39021/-?asset=427640"><img src="img/icon-pdf.jpg" width="15"></a> 
-        - *Please note that presentation and format will differ in the app.*
-        - Wrap up the call - <say>I will see you [date/time]. Just as a reminder, the data we collect from you now and during the visit, will be shared on a web-based library only available to researchers like the professor who runs this lab.</say>
-    - → *If demographic questionnaire has been completed:* - <say>That's great! I will see you [date/time]. Just as a reminder, the data we collect from you now and during the visit, will be shared on a web-based library only available to researchers like the professor who runs this lab.</say>
-- → *If no:* reschedule, make sure that child will still be within age range
+- → *If yes: continue* 
+
+“Just as a reminder, the data we collect from you now and during the visit, will be shared on a web-based library only available to researchers like the professor who runs this lab.”
+
 
 <div class="videobuttons">
 <img src="img/icon-video.png" width="25">
