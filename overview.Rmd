@@ -163,7 +163,9 @@ Data will come from the NYC and West Lafayette areas, two geographically- divers
 
 ### Map
 
-<img src="img/PLAY-sites.png"/>
+<img src="img/DUST-collectionsite1.png"/>
+
+<img src="img/DUST-collectionsite2.png"/>
 
 ### Racial composition
 

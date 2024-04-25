@@ -1,6 +1,6 @@
-name: "PLAY Project"
+name: "DUST Project"
 navbar:
-  title: "PLAY"
+  title: "DUST"
   left:
     - text: "people"
       href: people.html
@@ -24,7 +24,7 @@ navbar:
 output_dir: "docs"
 output:
   html_document:
-    title: "PLAY project"
+    title: "DUST project"
     theme: lumen
     highlight: textmate
     css: css/play.css
