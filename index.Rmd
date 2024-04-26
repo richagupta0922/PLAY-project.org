@@ -10,7 +10,7 @@ This project will elucidate determinants of indoor dust ingestion in 6-to 24-mon
 
 ## Support
 DUST is supported by grants from the Office of the Director, National Institutes of Health, (OD), Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) under R01HD094830-01, the LEGO Foundation, and the Alfred P. Sloan Foundation.
-testing Richa <04/25/2024> testttt
+
 
 ## Website info
 ```{r child = 'website-info.Rmd'}
