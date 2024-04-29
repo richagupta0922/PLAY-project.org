@@ -1,7 +1,7 @@
 ---
 title: "DUST Project"
 ---
-![](img/PLAY-logo.png){width=300}
+<!-- ![](img/PLAY-logo.png){width=300} --> <Insert DUST Logo>
 
 ![](img/DUST-home.png){width=600}
 
@@ -9,7 +9,8 @@ title: "DUST Project"
 This project will elucidate determinants of indoor dust ingestion in 6-to 24-month-old infants (agerange for major postural and locomotor milestones). Our 5 specific objectives are to test: (1) whether the frequency and characteristics of indoor mouthing events change with age and motor development stage for different micro-environments; (2) how home characteristics and demographic factors affect indoor dust mass loading and dust toxicant concentration; (3) how dust transfer between surfaces is influenced by dust properties, surface features, and contact dynamics; and (4) contributions of developmental, behavioral, and socio-environmental factors to dust and toxicant-resolved dust ingestion rates. In addition, the project will (5) create a shared corpus of video, dust, toxicant, and ingestion rate data to increase scientific transparency and speed progress through data reuse by the broader exposure science community.
 
 ## Support
-DUST is supported by grants from the Office of the Director, National Institutes of Health, (OD), Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) under R01HD094830-01, the LEGO Foundation, and the Alfred P. Sloan Foundation.
+<DUST Grants>
+<!-- DUST is supported by grants from the Office of the Director, National Institutes of Health, (OD), Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD), the National Institute of Mental Health (NIMH), and the National Institute on Drug Abuse (NIDA) under R01HD094830-01, the LEGO Foundation, and the Alfred P. Sloan Foundation. -->
 
 
 ## Website info
